@@ -1,0 +1,13 @@
+# Google Analytics Tracking ID
+menu:
+  Home: /
+  LINE: /line
+title: 可可的菜單
+google_analytics:
+
+# Default portfolio post
+default_cover_image: images/unsplash.jpg
+default_post_title: Portfolio Item
+# busuanzi
+busuanzi: true
+busuanzi_site_offset: 100000
